@@ -64,7 +64,7 @@ degraded: Degraded
 ms: ms
 loading: Loading
 navGitHub: GitHub
-    footer: Todos os direitos reservados | [Ouvidor Digital](https://ouvidoridigital.com)
+    footer: Todos os direitos reservados @ [Ouvidor Digital](https://ouvidoridigital.com)
 rateLimitExceededTitle: Rate limit exceedeed
 rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
 rateLimitExceededWhatDoesErrorMean: What does this error mean?
