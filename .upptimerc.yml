@@ -1,11 +1,11 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: ravpacheco # Your GitHub username
+repo: od-status-page # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Ouvidor Digital Portal
+    url: https://portal.ouvidordigital.com.br
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
@@ -17,18 +17,20 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: status.ouvidordigital.com.br
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://portal.ouvidordigital.com.br/assets/img/logo.svg
+  name: Ouvidor Digital
+  introTitle: "**Ouvidor Digital** fortalece a cultura ética nas organizações"
+  introMessage: Página de disponibilidade dos serviços do [Ouvidor Digital](https://ouvidordigital.com) em **tempo real**.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Site
+      href: https://ouvidordigital.com
+#    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
