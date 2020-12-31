@@ -17,7 +17,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: status.ouvidordigital.com.br
+  cname: ravpacheco.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /od-status-page
   logoUrl: https://portal.ouvidordigital.com.br/assets/img/logo.svg
