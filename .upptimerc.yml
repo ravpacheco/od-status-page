@@ -10,16 +10,16 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+#  - name: Broken Site
+#    url: https://thissitedoesnotexist.com
+#  - name: Secret Site
+#   url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: status.ouvidordigital.com.br
+  # cname: status.ouvidordigital.com.br
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /od-status-page
   logoUrl: https://portal.ouvidordigital.com.br/assets/img/logo.svg
   name: Ouvidor Digital
   introTitle: "**Ouvidor Digital** fortalece a cultura ética nas organizações"
