@@ -20,7 +20,8 @@ status-website:
   cname: ravpacheco.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /od-status-page
-  logoUrl: https://portal.ouvidordigital.com.br/assets/img/logo.svg
+  # logoUrl: https://portal.ouvidordigital.com.br/assets/img/logo.svg
+  logoUrl: https://od-check-protocol.web.app/images/logo.png
   name: Ouvidor Digital
   introTitle: "**Ouvidor Digital** fortalece a cultura ética nas organizações"
   introMessage: Página de disponibilidade dos serviços do [Ouvidor Digital](https://ouvidordigital.com) em **tempo real**.
