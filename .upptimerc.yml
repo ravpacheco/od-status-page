@@ -4,12 +4,12 @@ repo: od-status-page # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Ouvidor Digital Portal
+  - name: Portal | Ouvidor Digital
     url: https://portal.ouvidordigital.com.br
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: API | Ouvidor Digital
+    url: https://us-central1-od-portal-hmg.cloudfunctions.net/getSpeakableProtocolNumber
+  - name: Sites dos Canais | Ouvidor Digital
+    url: https://ouvidordigital.com.br/od
 #  - name: Broken Site
 #    url: https://thissitedoesnotexist.com
 #  - name: Secret Site
