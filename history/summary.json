@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 537,
-    "timeDay": 571,
+    "timeDay": 551,
     "timeWeek": 537,
     "timeMonth": 537,
     "timeYear": 537,
@@ -19,8 +19,8 @@
   },
   {
     "name": "API - Ouvidor Digital",
-    "url": "https://us-central1-od-portal-hmg.cloudfunctions.net/getSpeakableProtocolNumber",
-    "icon": "https://favicons.githubusercontent.com/us-central1-od-portal-hmg.cloudfunctions.net",
+    "url": "$OD_API_URL",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api-ouvidor-digital",
     "status": "up",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 154,
-    "timeWeek": 700,
-    "timeMonth": 700,
-    "timeYear": 700,
+    "time": 641,
+    "timeDay": 164,
+    "timeWeek": 641,
+    "timeMonth": 641,
+    "timeYear": 641,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 543,
-    "timeWeek": 574,
-    "timeMonth": 574,
-    "timeYear": 574,
+    "time": 571,
+    "timeDay": 547,
+    "timeWeek": 571,
+    "timeMonth": 571,
+    "timeYear": 571,
     "dailyMinutesDown": {}
   }
 ]
