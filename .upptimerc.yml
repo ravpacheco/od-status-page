@@ -7,7 +7,7 @@ sites:
   - name: Portal
     url: https://portal.ouvidordigital.com.br
   - name: API - Ouvidor Digital
-    url: https://us-central1-od-portal-hmg.cloudfunctions.net/getSpeakableProtocolNumber
+    url: $OD_API_URL
   - name: Sites dos Canais
     url: https://ouvidordigital.com.br/od
 #  - name: Broken Site
