@@ -1,7 +1,7 @@
-url: https://us-central1-od-portal-hmg.cloudfunctions.net/getSpeakableProtocolNumber  
+url: $OD_API_URL  
 status: up
 code: 200
-responseTime: 154
-lastUpdated: 2021-01-03T23:16:34.190Z
+responseTime: 174
+lastUpdated: 2021-01-04T12:29:36.785Z
 startTime: Thu Dec 31 2020 14:56:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
