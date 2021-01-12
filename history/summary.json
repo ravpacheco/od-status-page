@@ -4,18 +4,20 @@
     "url": "https://portal.ouvidordigital.com.br",
     "icon": "https://favicons.githubusercontent.com/portal.ouvidordigital.com.br",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 513,
-    "timeWeek": 553,
-    "timeMonth": 542,
-    "timeYear": 542,
-    "dailyMinutesDown": {}
+    "time": 528,
+    "timeDay": 411,
+    "timeWeek": 523,
+    "timeMonth": 528,
+    "timeYear": 528,
+    "dailyMinutesDown": {
+      "2021-01-12": 0
+    }
   },
   {
     "name": "API - Ouvidor Digital",
