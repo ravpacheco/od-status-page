@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/portal.ouvidordigital.com.br",
     "slug": "portal",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 531,
-    "timeDay": 583,
-    "timeWeek": 524,
-    "timeMonth": 531,
-    "timeYear": 531,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 533,
+    "timeDay": 575,
+    "timeWeek": 530,
+    "timeMonth": 533,
+    "timeYear": 533,
     "dailyMinutesDown": {
       "2021-01-12": 28
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 77,
-    "timeWeek": 416,
-    "timeMonth": 486,
-    "timeYear": 486,
+    "time": 593,
+    "timeDay": 2634,
+    "timeWeek": 764,
+    "timeMonth": 593,
+    "timeYear": 593,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 234,
-    "timeWeek": 506,
-    "timeMonth": 526,
-    "timeYear": 526,
+    "time": 509,
+    "timeDay": 208,
+    "timeWeek": 474,
+    "timeMonth": 509,
+    "timeYear": 509,
     "dailyMinutesDown": {}
   }
 ]
