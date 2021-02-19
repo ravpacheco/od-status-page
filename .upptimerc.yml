@@ -10,6 +10,8 @@ sites:
     url: $OD_API_URL
   - name: Sites dos Canais
     url: https://ouvidordigital.com.br/od
+  - name: Portal do Denunciante
+    url: https://canal.ouvidordigital.com.br/od/form
 #  - name: Broken Site
 #    url: https://thissitedoesnotexist.com
 #  - name: Secret Site
