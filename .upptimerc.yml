@@ -36,34 +36,34 @@ status-website:
 #      href: https://github.com/$OWNER/$REPO
 
 i18n:
-  activeIncidents: Active Incidents
+  activeIncidents: Incidentes Ativos
   allSystemsOperational: Todos os sistemas estão funcionando corretamente
-  incidentReport: "Incident #$NUMBER report →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts
-  incidentTitle: Incident $NUMBER Details
-  incidentDetails: Incident Details
-  incidentFixed: Fixed
-  incidentOngoing: Ongoing
-  incidentOpenedAt: Opened at
-  incidentClosedAt: Closed at
-  incidentSubscribe: Subscribe to Updates
-  incidentViewOnGitHub: View on GitHub
-  incidentCommentSummary: Posted at $DATE by $AUTHOR
-  incidentBack: ← Back to all incidents
-  pastIncidents: Past Incidents
-  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  incidentReport: "Relatório do Incidente #$NUMBER →"
+  activeIncidentSummary: Aberto em $DATE com $POSTS postagens
+  incidentTitle: Detalhes do Incidente $NUMBER
+  incidentDetails: Detalhes do Incidente
+  incidentFixed: Corrigido
+  incidentOngoing: Em andmento
+  incidentOpenedAt: Aberto em
+  incidentClosedAt: Fechado em
+  incidentSubscribe: Assine para receber atualizações
+  incidentViewOnGitHub: Ver no GitHub
+  incidentCommentSummary: Publicado em $DATE por $AUTHOR
+  incidentBack: ← Voltar para todos os incidentes
+  pastIncidents: Incidentes Anteriores
+  pastIncidentsResolved: Resolvido em $MINUTES minutos com $POSTS postagens
   liveStatus: Status Atual
-  overallUptime: "Overall uptime: $UPTIME"
-  overallUptimeTitle: Overall uptime
-  averageResponseTime: "Average response time: $TIMEms"
-  averageResponseTimeTitle: Average response
-  sevelDayResponseTime: 7-day response time
-  responseTimeMs: Response time (ms)
-  up: Up
-  down: Down
-  degraded: Degraded
+  overallUptime: "Tempo geral de funcionamento: $UPTIME"
+  overallUptimeTitle: Tempo geral de funcionamento
+  averageResponseTime: "Tempo médio de resposta: $TIMEms"
+  averageResponseTimeTitle: Tempo médio de resposta
+  sevelDayResponseTime: Tempo de resposta em 7-dias
+  responseTimeMs: Tempo de resposta (ms)
+  up: Funcionando
+  down: Indisponível
+  degraded: Instável
   ms: ms
-  loading: Loading
+  loading: Carregando
   navGitHub: GitHub
   footer: Todos os direitos reservados - [Ouvidor Digital](https://ouvidoridigital.com)
   rateLimitExceededTitle: Rate limit exceedeed
@@ -78,10 +78,10 @@ i18n:
   rateLimitExceededGitHubPAT: GitHub Personal Access Token
   rateLimitExceededCopyPastePAT: Copy and paste your token
   rateLimitExceededSaveToken: Save token
-  errorTitle: An error occurred
-  errorIntro: An error occurred in trying to get the latest status details.
-  errorText: You can try again in a few moments.
-  errorHome: Go to the homepage
+  errorTitle: Ocorreu um erro
+  errorIntro: Ocorreu um erro ao tentar buscar os detalhes do último status.
+  errorText: Tente novamente em alguns minutos.
+  errorHome: Voltar para Home
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
