@@ -25,7 +25,8 @@ status-website:
   # logoUrl: https://portal.ouvidordigital.com.br/assets/img/logo.svg
   logoUrl: https://od-check-protocol.web.app/images/logo.png
   name: Ouvidor Digital
-  introTitle: "**Ouvidor Digital** fortalece a cultura ética nas organizações"
+  # introTitle: "**Ouvidor Digital** fortalece a cultura ética nas organizações"
+  introTitle: ""
   introMessage: Página de disponibilidade dos serviços do [Ouvidor Digital](https://ouvidordigital.com) em **tempo real**.
   navbar:
     - title: Status
