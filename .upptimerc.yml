@@ -40,7 +40,6 @@ i18n:
   url: "URL"
   status: "Status"
   history: "Histórico"
-  responseTime: "Tempo de resposta"
   uptime: "Disponibilidade"
   up: "🟩 OK"
   degraded: "🟨 Instável"
