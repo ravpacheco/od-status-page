@@ -37,6 +37,31 @@ status-website:
 #      href: https://github.com/$OWNER/$REPO
 
 i18n:
+  url: "URL"
+  status: "Status"
+  history: "Histórico"
+  responseTime: "Tempo de resposta"
+  uptime: "Disponibilidade"
+  up: "🟩 OK"
+  degraded: "🟨 Instável"
+  down: "🟥 Indisponível"
+  responseTimeGraphAlt: "Gráfico de tempo de resposta"
+  responseTime: "Tempo de resposta"
+  responseTimeDay: "Tempo de resposta em 24 horas"
+  responseTimeWeek: "Tempo de resposta em 7 dias"
+  responseTimeMonth: "Tempo de resposta em 30 dias"
+  responseTimeYear: "Tempo de resposta em 1 ano"
+  uptime: "Tempo de disponibilidade"
+  uptimeDay: "Disponibilidade em 24 horas"
+  uptimeWeek: "Disponibilidade em 7 dias"
+  uptimeMonth: "Disponibilidade em 30 dias"
+  uptimeYear: "Disponibilidade em 1 ano"
+  liveStatus: "Status em tempo real"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "🟩 Todos os sistemas estão funcionando corretamente"
+  degradedPerformance: "🟨 Instabilidade identificada"
+  completeOutage: "🟥 Indisponibilidade total"
+  partialOutage: "🟧 Indisponibilidade parcial"
   activeIncidents: Incidentes Ativos
   allSystemsOperational: Todos os sistemas estão funcionando corretamente
   incidentReport: "Relatório do Incidente #$NUMBER →"
