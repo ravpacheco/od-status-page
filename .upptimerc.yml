@@ -75,7 +75,6 @@ i18n:
   incidentBack: ← Voltar para todos os incidentes
   pastIncidents: Incidentes Anteriores
   pastIncidentsResolved: Resolvido em $MINUTES minutos com $POSTS postagens
-  liveStatus: Status Atual
   overallUptime: "Tempo geral de funcionamento: $UPTIME"
   overallUptimeTitle: Tempo geral de funcionamento
   averageResponseTime: "Tempo médio de resposta: $TIMEms"
