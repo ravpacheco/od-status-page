@@ -61,7 +61,6 @@ i18n:
   completeOutage: "🟥 Indisponibilidade total"
   partialOutage: "🟧 Indisponibilidade parcial"
   activeIncidents: Incidentes Ativos
-  allSystemsOperational: Todos os sistemas estão funcionando corretamente
   incidentReport: "Relatório do Incidente #$NUMBER →"
   activeIncidentSummary: Aberto em $DATE com $POSTS postagens
   incidentTitle: Detalhes do Incidente $NUMBER
