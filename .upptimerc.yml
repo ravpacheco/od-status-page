@@ -40,7 +40,6 @@ i18n:
   url: "URL"
   status: "Status"
   history: "Histórico"
-  uptime: "Disponibilidade"
   up: "🟩 OK"
   degraded: "🟨 Instável"
   down: "🟥 Indisponível"
@@ -84,9 +83,6 @@ i18n:
   averageResponseTimeTitle: Tempo médio de resposta
   sevelDayResponseTime: Tempo de resposta em 7-dias
   responseTimeMs: Tempo de resposta (ms)
-  up: Funcionando
-  down: Indisponível
-  degraded: Instável
   ms: ms
   loading: Carregando
   navGitHub: GitHub
